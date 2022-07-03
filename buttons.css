@@ -11,17 +11,17 @@
 }
 
 #play {
-background-image: url(../images/play.svg);
+background-image: url(./play.svg);
 }
 
 #pause {
-background-image: url(../images/pause.svg);
+background-image: url(./pause.svg);
 }
 
 #backward {
-background-image: url(../images/-10.svg);
+background-image: url(./-10.svg);
 }
 
 #forward {
-background-image: url(../images/+10.svg);
+background-image: url(./+10.svg);
 }
